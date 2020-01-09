@@ -1,24 +1,25 @@
 package com.ning.springboot.controller;
 
-import com.ning.springboot.dao.UserDao;
+import com.ning.springboot.UserService.UserService;
+import com.ning.springboot.pojo.User;
+import com.ning.springboot.utils.BeanResult;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
+import javax.servlet.http.HttpSession;
 
 @RestController
 @RequestMapping("/user")
 public class UserController {
 
     @Resource
-    UserDao dao;
+    UserService service;
 
-//    @RequestMapping("/login")
-//    public User login(User page) {
-//        User user = dao.find
-//
-//        return ;
-//    }
+    @RequestMapping("/login")
+    public BeanResult login(HttpSession session, User page) {
+        return service.login(session,page);
+    }
 
 }
 

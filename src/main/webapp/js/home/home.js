@@ -15,7 +15,8 @@ function funInit() {
             }
             var res = json.data;
             // TODO 跳转主页
-            window.location = contextPath + "/jsp/home/home.jsp"
+            window.location = contextPath + ""
+
         },"json",false);
     })
 }

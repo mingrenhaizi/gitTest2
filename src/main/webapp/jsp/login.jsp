@@ -5,7 +5,7 @@
 <html>
 <head>
     <script src="${ContextPath}/js/login.js"></script>
-    <title>主页</title>
+    <title>登录</title>
 </head>
 
 <body>
@@ -16,7 +16,7 @@
         <div class="form-group">
             <label for="firstname" class="col-sm-2 control-label">账号</label>
             <div class="col-sm-10" style="width: 280px">
-                <input type="text" class="form-control" id="firstname" name="username" placeholder="请输入账号"
+                <input type="text" class="form-control" id="firstname" name="account" placeholder="请输入账号"
                        onblur="if(/[^0-9a-zA-Z]/g.test(value))alert('账号只能输入英文或数字')">
             </div>
         </div>
@@ -39,7 +39,7 @@
         </div>
         <div class="form-group">
             <div class="col-sm-offset-2 col-sm-10" style="position: relative;left: -70px;">
-                <button type="submit" class="btn btn-primary btn-lg btn-block">登录</button>
+                <button id="loginBtn" type="button" class="btn btn-primary btn-lg btn-block">登录</button>
             </div>
         </div>
 
