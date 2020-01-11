@@ -1,9 +1,7 @@
 package com.ning.springboot.dao;
 
-import com.ning.springboot.pojo.User;
+import com.ning.springboot.DbPojo.User;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
-import org.springframework.data.repository.query.Param;
 
 public interface UserDao extends JpaRepository<User, String> {
 

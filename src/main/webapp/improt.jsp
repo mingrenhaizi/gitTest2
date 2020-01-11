@@ -7,9 +7,11 @@
     session.setAttribute("ContextPath", basePath);//将web根目录保存到session中，用el可以直接取到
     String userIp = request.getRemoteHost();
     session.setAttribute("UserIp", userIp);//用户IP地址
+    session.setAttribute("ShardsPath", basePath+"/resources/shards");//shards路径
 %>
 <script>
     var contextPath = "${ContextPath}";
+    var shardsPath = "${ShardsPath}";
 </script>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="${ContextPath}/resources/bootstrap.min.css"/>

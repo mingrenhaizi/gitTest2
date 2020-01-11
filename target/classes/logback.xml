@@ -92,6 +92,7 @@
     <logger name="jdbc.sqlonly" level="OFF"/>
 
     <!--设置日志打印级别为 INFO-->
+    <!--OFF level > FATAL > ERROR > WARN > INFO > DEBUG > ALL level-->
     <root level="INFO">
         <appender-ref ref="CONSOLE"/>
         <appender-ref ref="FILEINFO"/>

@@ -4,7 +4,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
-    <script src="${ContextPath}/js/login.js"></script>
+    <script src="${contextPath}/js/login.js"></script>
     <title>主页</title>
 </head>
 

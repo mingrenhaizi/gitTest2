@@ -46,7 +46,7 @@
         <a href="registerJump.do" style="position: relative;left: 60px;">没有账号？点此注册！</a>
     </form>
 </div>
-<a href="test.do?tips=你好">测试按钮</a>
+<button onclick="test()">测试按钮</button>
 
 </body>
 </html>

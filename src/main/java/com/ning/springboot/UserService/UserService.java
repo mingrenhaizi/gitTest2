@@ -2,7 +2,7 @@ package com.ning.springboot.UserService;
 
 
 import com.ning.springboot.dao.UserDao;
-import com.ning.springboot.pojo.User;
+import com.ning.springboot.DbPojo.User;
 import com.ning.springboot.utils.BeanResult;
 import org.springframework.stereotype.Service;
 
