@@ -3,11 +3,6 @@ package com.ning.springboot.utils;
 import java.util.HashMap;
 
 public class BeanResult extends HashMap<String, Object> {
-    private static final String SUCCESS = "S";
-    private static final String FAIL = "F";
-    private static final String DATA = "data";
-    private static final String MSG = "msg";
-    private static final String STATUS = "status";
 
     public static BeanResult success(){
         BeanResult result = new BeanResult();
@@ -35,6 +30,9 @@ public class BeanResult extends HashMap<String, Object> {
         return result;
     }
 
-    //只设置成功和失败，无其他属性
-
+    private static final String SUCCESS = "S";
+    private static final String FAIL = "F";
+    private static final String DATA = "data";
+    private static final String MSG = "msg";
+    private static final String STATUS = "status";
 }

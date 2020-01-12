@@ -4,7 +4,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
-    <script src="${ContextPath}/js/login.js"></script>
+    <script src="${ContextPath}/js/register.js"></script>
     <title>登录</title>
 </head>
 
@@ -30,15 +30,16 @@
         </div>
         <div class="form-group">
             <div class="col-sm-offset-2 col-sm-10">
-                <div class="custom-control custom-toggle custom-toggle-sm d-block my-2" style="position: relative;left: -65px;">
-                    <input type="checkbox" id="customToggle2sm" name="saveUserByCookie" class="custom-control-input" checked>
-                    <label class="custom-control-label" for="customToggle2sm">7天内在此电脑保存登录状态</label>
+
+
+
+                <div class="checkbox" style="position: relative;left: -65px;">
+                    <label>
+                        <input type="checkbox" name="saveUserByCookie" value="yes" checked> 7天内在此电脑保存登录状态
+                    </label>
                 </div>
-                <%--<div class="checkbox" >--%>
-                    <%--<label>--%>
-                        <%--<input type="checkbox" name="saveUserByCookie" value="yes" checked>--%>
-                    <%--</label>--%>
-                <%--</div>--%>
+
+
             </div>
         </div>
         <div class="form-group">
