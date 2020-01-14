@@ -1,5 +1,4 @@
-<!DOCTYPE HTML>
-<%@ include file="/improt.jsp"  %>
+<%@ include file="/improt.jsp" %>
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" isELIgnored="false" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
@@ -9,45 +8,45 @@
 </head>
 
 <body>
+
 <div style="width: 400px;margin: auto;position: relative; left: 42px" align="center">
     <br><br>
     <h3>欢迎进入超市购物系统！</h3><br>
-    <form id="userLoginForm" class="form-horizontal" method="post">
+    <form id="userLoginForm" class="form-horizontal">
         <div class="form-group">
-            <label for="firstname" class="col-sm-2 control-label">账号</label>
+            <label for="account" class="col-sm-2 control-label">账号</label>
             <div class="col-sm-10" style="width: 280px">
-                <input type="text" class="form-control" id="firstname" name="account" placeholder="请输入账号"
+                <input type="text" class="form-control" id="account" name="account" placeholder="请输入账号"
                        onblur="if(/[^0-9a-zA-Z]/g.test(value))alert('账号只能输入英文或数字')">
             </div>
         </div>
         <div class="form-group">
-            <label for="lastname" class="col-sm-2 control-label">密码</label>
+            <label for="password" class="col-sm-2 control-label">密码</label>
             <div class="col-sm-10" style="width: 280px">
                 <%--密码禁止粘贴--%>
-                <input type="password" class="form-control" id="lastname" name="password" placeholder="请输入密码"
+                <input type="password" class="form-control" id="password" name="password" placeholder="请输入密码"
                        onpaste="return false" oncontextmenu="return false">
             </div>
         </div>
         <div class="form-group">
             <div class="col-sm-offset-2 col-sm-10">
-                <div class="custom-control custom-toggle custom-toggle-sm d-block my-2" style="position: relative;left: -65px;">
-                    <input type="checkbox" id="customToggle2sm" name="saveUserByCookie" class="custom-control-input" checked>
-                    <label class="custom-control-label" for="customToggle2sm">7天内在此电脑保存登录状态</label>
+                <div class="switch"
+                     data-on-label="<i class='fa fa-check'></i>"
+                     data-off-label="<i class='fa fa-times'></i>"
+                     style="position: relative;left: -70px">
+                    <%--<input name="saveUserByCookie" class="ct-blue" type="checkbox" checked/>--%>
+                        <input name="saveUserByCookie" type="checkbox" class="ct-blue" checked/>
                 </div>
-                <%--<div class="checkbox" >--%>
-                    <%--<label>--%>
-                        <%--<input type="checkbox" name="saveUserByCookie" value="yes" checked>--%>
-                    <%--</label>--%>
-                <%--</div>--%>
+                <div style="position: relative;left: -70px;top: -8px;display: inline">7天内在此电脑保存登录状态</div>
             </div>
         </div>
         <div class="form-group">
             <div class="col-sm-offset-2 col-sm-10" style="position: relative;left: -70px;">
-                <button id="loginBtn" type="button" class="btn btn-primary btn-lg btn-block">登录</button>
+                <button id="loginBtn" type="button" class="btn btn-block btn-lg btn-primary btn-fill">登录</button>
             </div>
         </div>
 
-        <a href="${ContextPath}/jsp/register.jsp" style="position: relative;left: 60px;">没有账号？点此注册！</a>
+        <a href="${ContextPath}/jsp/register.jsp" class="ct-blue" style="position: relative;left: 60px;">没有账号？点此注册！</a>
     </form>
 </div>
 <button onclick="test()">测试按钮</button>

@@ -2,125 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce33f55b-12e0-4dd8-a6aa-ef2343ac0021" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/register.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ning/springboot/utils/BeanResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ning/springboot/utils/BeanResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ning/springboot/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ning/springboot/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/improt.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/improt.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/home/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/home/home.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/__MACOSX/._DesignRevision.url" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/__MACOSX/._LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/agency-landing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/app-promo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards-demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards-demo.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards-demo.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards-demo.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards-extras.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards-extras.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards-extras.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards-extras.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/css/shards.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/agency-landing/shards-logo-white.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/agency-landing/welcome-cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/app-promo/badge-apple-store.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/app-promo/badge-google-play-store.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/app-promo/features-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/app-promo/iphone-app-mockup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/app-promo/iphone-app-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/app-promo/shards-logo-green.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/app-promo/welcome-cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/common/avatar-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/common/avatar-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/common/avatar-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/common/card-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/common/card-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/common/card-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/demo/fontawesome-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/demo/material-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/demo/shard-1-5x-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/demo/shards-agency-landing-page-demo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/demo/shards-app-demo-page-demo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/demo/shards-logo-black.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/demo/shards-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/demo/stock-photos/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/demo/stock-photos/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/images/demo/stock-photos/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/js/demo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/js/demo.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/js/shards.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/js/shards.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_button-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_card.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_close.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_custom-datepicker.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_custom-forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_custom-sliders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_dropdown.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_images.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_input-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_jumbotron.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_nav.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_popover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_progress.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_root.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_tooltip.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_transitions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_type.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_background-variant.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_border-radius.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_box-shadow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_hover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_lists.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_nav-divider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_reset-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_resize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_table-row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_text-emphasis.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_text-hide.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_text-truncate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/mixins/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/shards.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/utilities/_background.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/utilities/_borders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/utilities/_position.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/utilities/_shadows.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/scss/utilities/_text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/shards/shards-demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/css/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/css/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/css/gsdk.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/css/gsdk.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/apple-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/apple-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/blurred-black-cover.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/blurred-black-cover.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/carousel_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/carousel_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/carousel_green.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/carousel_green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/carousel_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/carousel_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/carousel_red.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/carousel_red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/cover_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/cover_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/cover_4_blur.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/cover_4_blur.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/dulau.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/dulau.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/mask.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/mask.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/mockup.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/mockup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/new_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/new_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/img/tim_80x80.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/img/tim_80x80.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/js/get-shit-done.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/js/get-shit-done.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/js/gsdk-bootstrapswitch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/js/gsdk-bootstrapswitch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/js/gsdk-checkbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/js/gsdk-checkbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/js/gsdk-radio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/js/gsdk-radio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/js/jquery-ui-1.10.4.custom.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/js/jquery-ui-1.10.4.custom.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_alerts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_alerts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_carousel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_checkbox-radio-switch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_checkbox-radio-switch.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_collapse.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_collapse.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_dropdown.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_inputs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_inputs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_labels-and-progress-bars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_labels-and-progress-bars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_misc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_misc.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_modal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_navbars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_navbars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_responsive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_responsive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_sliders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_sliders.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_tabs-navs-pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_tabs-navs-pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_tooltips.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_tooltips.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/mixins/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/mixins/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/mixins/_inputs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/mixins/_inputs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/mixins/_labels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/mixins/_labels.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/mixins/_navbars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/mixins/_navbars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/mixins/_tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/mixins/_tabs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/mixins/_transparency.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/mixins/_transparency.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/assets/sass/gsdk/mixins/_vendor-prefixes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/sass/gsdk/mixins/_vendor-prefixes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/bootstrap3/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/jquery/jquery-1.10.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/jquery/jquery-1.10.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/jquery/jquery-ui.custom.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/jquery/jquery-ui.custom.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/navbar-transparent.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/navbar-transparent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/notification.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/notification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/UI/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/tutorial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/jquery-3.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/jquery/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/utils.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -176,64 +150,73 @@
     <session id="511844376">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="4" />
           <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1810" />
-          <entry key="js" value="556" />
-          <entry key="jsp" value="940" />
+          <entry key="css" value="3" />
+          <entry key="html" value="17" />
+          <entry key="java" value="1911" />
+          <entry key="js" value="1625" />
+          <entry key="jsp" value="1542" />
           <entry key="properties" value="135" />
           <entry key="xml" value="129" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1810" />
-          <entry key="JSP" value="940" />
-          <entry key="JavaScript" value="556" />
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="17" />
+          <entry key="JAVA" value="1911" />
+          <entry key="JSP" value="1542" />
+          <entry key="JavaScript" value="1625" />
           <entry key="Properties" value="135" />
           <entry key="XML" value="129" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="9" />
-          <entry key="css" value="1" />
-          <entry key="html" value="6" />
+          <entry key="class" value="10" />
+          <entry key="css" value="7" />
+          <entry key="html" value="8" />
           <entry key="iml" value="2" />
-          <entry key="java" value="24" />
-          <entry key="js" value="13" />
-          <entry key="jsp" value="18" />
+          <entry key="java" value="27" />
+          <entry key="js" value="26" />
+          <entry key="jsp" value="32" />
           <entry key="jsp___jb_tmp___" value="1" />
           <entry key="name" value="3" />
+          <entry key="png" value="2" />
           <entry key="properties" value="6" />
+          <entry key="ts" value="1" />
           <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="9" />
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="6" />
+          <entry key="CLASS" value="10" />
+          <entry key="CSS" value="7" />
+          <entry key="HTML" value="8" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="24" />
-          <entry key="JSP" value="18" />
-          <entry key="JavaScript" value="13" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="27" />
+          <entry key="JSP" value="32" />
+          <entry key="JavaScript" value="26" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="6" />
+          <entry key="TypeScript" value="1" />
           <entry key="XML" value="8" />
         </counts>
       </usages-collector>
@@ -242,50 +225,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/login.js">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/register.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/improt.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="1276">
+              <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/register.jsp">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/register.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+            <state relative-caret-position="207">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/register.js">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="3916">
+              <caret line="178" column="84" selection-start-line="178" selection-start-column="65" selection-end-line="178" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -314,9 +275,27 @@
       <find>not null</find>
       <find>Lasers</find>
       <find>query-3.2.1.m</find>
+      <find>tim-title</find>
+      <find>bootstrap</find>
+      <find>Checkboxes</find>
+      <find>${UiPath}</find>
+      <find>firstname</find>
+      <find>https://fonts.gstatic.com/s/grandhotel/v7/7Au7p_IgjDKdCRWuR1azplQEGFw-0g.woff2</find>
+      <find>alert alert-warning</find>
+      <find>userLoginForm</find>
+      <find>loginBtn</find>
+      <find>Switches</find>
+      <find>jquery</find>
+      <find>has-error</find>
+      <find>Radio Buttons</find>
+      <find>account</find>
+      <find>长度</find>
+      <find>password</find>
     </findStrings>
     <replaceStrings>
       <replace>contextPath</replace>
+      <replace>${ContextPath}/resources/</replace>
+      <replace>account</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -331,8 +310,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/how2java/springboot/pojo/Category.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/how2java/springboot/web/CategoryController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/how2java/springboot/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/listCategory.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/hello.js" />
@@ -349,10 +326,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/js/init.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/ning/springboot/pojo/BeanResult.java" />
         <option value="$PROJECT_DIR$/.idea/.name" />
-        <option value="$PROJECT_DIR$/src/main/webapp/utils.js" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ning/springboot/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ning/springboot/UserService/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/jsp/home/home.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/log4jdbc.log4j2.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/ning/springboot/dao/UserDao.java" />
@@ -374,11 +348,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ning/springboot/DbPojo/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ning/springboot/DbPojo/OrderList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ning/springboot/DbPojo/GuessLoveList.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/js/login.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/ning/springboot/utils/BeanResult.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/jsp/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/UI/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/home/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/googleFront.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/googleFront/googleFront.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/login.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/improt.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/utils.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ning/springboot/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/register.js" />
       </list>
     </option>
   </component>
@@ -396,9 +378,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="710" />
-    <option name="width" value="1075" />
-    <option name="height" value="915" />
+    <option name="x" value="865" />
+    <option name="y" value="156" />
+    <option name="width" value="860" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -422,6 +405,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -495,6 +479,17 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ning" type="462c0819:PsiDirectoryNode" />
               <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="DbPojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SuperMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitTest2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ning" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -544,11 +539,19 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SuperMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitTest2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -560,7 +563,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578812729726" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578900406735" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -571,20 +574,22 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\js" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\resources\googleFront" />
+      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\resources" />
+      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\resources\UI" />
       <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\jsp" />
-      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\resources\shards" />
-      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\test" />
-      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\js\home" />
+      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ning.springboot.DbPojo" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\resources\jquery" />
+      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\resources\googleFront" />
+      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\resources\UI" />
+      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\js" />
       <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\jsp" />
-      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp" />
-      <recent name="E:\workspace\ideaworkspace\gitTest2\src\main\webapp\WEB-INF\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -640,18 +645,20 @@
       <workItem from="1578529573114" duration="6144000" />
       <workItem from="1578620342584" duration="21844000" />
       <workItem from="1578709581543" duration="5178000" />
-      <workItem from="1578800710158" duration="5169000" />
+      <workItem from="1578800710158" duration="27402000" />
+      <workItem from="1578886184794" duration="12808000" />
+      <workItem from="1578967804079" duration="236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77969000" />
+    <option name="totallyTimeSpent" value="113252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.24932976" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.2922252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -662,7 +669,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.23120567" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32907802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -726,70 +733,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.jar!/org/springframework/data/domain/Page.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.13.RELEASE/spring-webmvc-4.3.13.RELEASE.jar!/org/springframework/web/servlet/ModelAndView.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/errorPage.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/listCategory.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/exception/GlobalExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editCategory.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/GenerationType.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/init.js" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.9.RELEASE/spring-data-jpa-1.11.9.RELEASE.jar!/org/springframework/data/jpa/repository/Query.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/pojo/BeanResult.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.6.Final/hibernate-validator-5.3.6.Final.jar!/org/hibernate/validator/internal/engine/constraintvalidation/ConstraintValidatorManager.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -823,9 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -871,28 +811,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/home/home.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/test/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/home/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/shards/app-promo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/shards/app-promo.html" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/DbPojo/FootMarkList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -927,16 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/DbPojo/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/DbPojo/CarList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -944,13 +854,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/utils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -975,28 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/UserService/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/DbPojo/GuessLoveList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1014,52 +895,166 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/shards/js/shards.min.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/shards/js/shards.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/shards/shards-demo.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/components.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/register.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/assets/img/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/assets/img/apple-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/assets/css/demo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="141">
+          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/shards/shards-demo.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/bootstrap3/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="4873" lean-forward="true" selection-start-line="8" selection-start-column="4873" selection-end-line="8" selection-end-column="4873" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/home/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/googleFront/googleFront.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/assets/css/gsdk.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="270" column="34" lean-forward="true" selection-start-line="270" selection-start-column="34" selection-end-line="270" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17108" column="28" selection-start-line="17108" selection-start-column="17" selection-end-line="17108" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/assets/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="64" />
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/DbPojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/jquery/jquery-1.10.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="7555" column="4" selection-start-line="7555" selection-start-column="4" selection-end-line="7555" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/jquery/jquery-3.4.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/UserService/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="63" />
+        <state relative-caret-position="220">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/improt.jsp">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="162">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        <state relative-caret-position="269">
+          <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ning/springboot/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/improt.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/register.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        <state relative-caret-position="1276">
+          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3916">
+          <caret line="178" column="84" selection-start-line="178" selection-start-column="65" selection-end-line="178" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
